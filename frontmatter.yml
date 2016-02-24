@@ -1,0 +1,10 @@
+title: SafariViewController
+slug: tvpm-safariviewcontroller
+page_title: SafariViewController | Telerik Verified Plugin Sample | Telerik Platform
+description: This sample application shows you how to add the iOS9+ SafariViewController (as opposed to In-App Browser) using the SafariViewController plugin from the Telerik Verified Plugins Marketplace.
+publish: true
+content_filter: true
+tags: verified plugin
+apis: appbuilder.simulator cordova.splashscreen cordova.events cordova.dialogs cordova.localStorage kendo.application kendo.application.skin kendo.observableObject kendo.view kendo.button kendo.navBar kendo.layout kendo.tabStrip verified.safariviewcontroller safariviewcontroller.show safariviewcontroller.hide
+related_resources:
+- "[The SafariViewController Plugin](http://plugins.telerik.com/cordova/plugin/safariviewcontroller)"
