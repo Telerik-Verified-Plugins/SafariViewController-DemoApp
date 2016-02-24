@@ -1,0 +1,45 @@
+{
+  "ProjectName": "SafariViewController",
+  "ProjectGuid": "d49353d9-b02c-45f8-96ba-252e4fed5b82",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.SafariViewController",
+  "DisplayName": "SafariViewController",
+  "Author": "",
+  "Description": "SafariViewController",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{2a1b72ee-ff6c-4301-bf60-0490879f3805}",
+  "WP8ProductID": "{10f22057-8291-4274-9ccc-ba6f3c9ebf9c}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.SafariViewController",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
