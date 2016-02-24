@@ -21,10 +21,23 @@ This sample shows you how to implement the iOS9+ SafariViewController (as oppose
 
 # Screenshots
 
-Skin | Home | Demo | Tests
---- | --- | --- | ---
-Native | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Toast-DemoApp/master/screenshots/ios/native-home.jpg) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Toast-DemoApp/master/screenshots/ios/native-demo.jpg) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Toast-DemoApp/master/screenshots/ios/native-tests.jpg)
-Flat | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Toast-DemoApp/master/screenshots/ios/flat-home.jpg) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Toast-DemoApp/master/screenshots/ios/flat-demo.jpg) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/Toast-DemoApp/master/screenshots/ios/flat-tests.jpg)
+### Skins
+
+Native | Flat
+--- | ---
+![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/SafariViewController-DemoApp/master/screenshots/ios/skin-native.PNG) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/SafariViewController-DemoApp/master/screenshots/ios/skin-flat.PNG)
+
+### Transitions
+
+Curl | Flip
+--- | ---
+![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/SafariViewController-DemoApp/master/screenshots/ios/curl.PNG) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/SafariViewController-DemoApp/master/screenshots/ios/flip.PNG)
+
+### Features
+
+Reader mode | Sharing | Events
+--- | --- | ---
+![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/SafariViewController-DemoApp/master/screenshots/ios/readermode.PNG) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/SafariViewController-DemoApp/master/screenshots/ios/sharing.PNG) | ![](https://raw.githubusercontent.com/Telerik-Verified-Plugins/SafariViewController-DemoApp/master/screenshots/ios/events.PNG)
 
 [Back to Top](#top)
 
@@ -57,7 +70,7 @@ With the AppBuilder universal desktop client, you can develop hybrid and NativeS
 1. Click **Create app**.
 1. Click **Advanced**.
 1. Select **Clone repository**.
-1. Enter `https://github.com/Telerik-Verified-Plugins/Toast-DemoApp.git` in the **Repository URI** text box.
+1. Enter `https://github.com/Telerik-Verified-Plugins/SafariViewController-DemoApp.git` in the **Repository URI** text box.
 1. Provide an app name.
 1. (Optional) Provide description.
 1. Click **Create app** and wait for the in-browser client to load the app.
@@ -82,7 +95,7 @@ With the AppBuilder Windows client, you can develop hybrid and NativeScript cros
 1. Click **Create app**.
 1. Click **Advanced**.
 1. Select **Clone repository**.
-1. Enter `https://github.com/Telerik-Verified-Plugins/Toast-DemoApp.git` in the **Repository URI** text box.
+1. Enter `https://github.com/Telerik-Verified-Plugins/SafariViewController-DemoApp.git` in the **Repository URI** text box.
 1. Provide an app name.
 1. Click **Clone**.
 
@@ -105,7 +118,7 @@ With the AppBuilder extension for Visual Studio, you can develop hybrid and Nati
 
 ### Clone the sample
 
-1. On your local file system, clone the [remote repository](https://github.com/Telerik-Verified-Plugins/Toast-DemoApp) that contains the app.
+1. On your local file system, clone the [remote repository](https://github.com/Telerik-Verified-Plugins/SafariViewController-DemoApp) that contains the app.
 1. In the top menu bar, click **File** &#8594; **Open** &#8594; **Project/Solution**.
 1. Navigate to the location where your app is stored.
 1. Locate the `ABPROJECT` file for your app and double-click it.
@@ -130,7 +143,7 @@ With the AppBuilder command-line interface, you can develop hybrid and NativeScr
 
 ### Clone the sample
 
-1. On your local file system, clone the [remote repository](https://github.com/Telerik-Verified-Plugins/Toast-DemoApp) that contains the app.
+1. On your local file system, clone the [remote repository](https://github.com/Telerik-Verified-Plugins/SafariViewController-DemoApp) that contains the app.
 1. In the command prompt, navigate to the directory that contains the `ABPROJECT` file for your app.
 
 The AppBuilder command-line interface shows the following message: `Successfully initialized project in the folder!`
