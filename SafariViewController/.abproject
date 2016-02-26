@@ -47,6 +47,7 @@
     "cordova-plugin-device",
     "cordova-plugin-dialogs",
     "cordova-plugin-inappbrowser",
+    "cordova-plugin-safariviewcontroller@1.4.0",
     "cordova-plugin-splashscreen",
     "cordova-plugin-statusbar"
   ]
