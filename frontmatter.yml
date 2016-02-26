@@ -1,7 +1,7 @@
 title: SafariViewController
 slug: tvpm-safariviewcontroller
 page_title: SafariViewController | Telerik Verified Plugin Sample | Telerik Platform
-description: This sample application shows you how to add the iOS9+ SafariViewController (as opposed to In-App Browser) using the SafariViewController plugin from the Telerik Verified Plugins Marketplace.
+description: This sample app shows you how to add SafariViewController (as opposed to In-App Browser) using the verified SafariViewController plugin.
 publish: true
 content_filter: true
 tags: verified plugin
