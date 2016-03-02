@@ -56,7 +56,6 @@ With the AppBuilder in-browser client, you can develop hybrid and NativeScript c
 
 ### Run the sample
 
-* [Run in the companion app.][companion]
 * [Deploy on device via QR code.][QR code]
 
 [Back to Top](#top)
@@ -79,7 +78,6 @@ A new app is added in your Telerik Platform account and all files are checked in
 
 ### Run the sample
 
-* [Run in the companion app.][companion]
 * [Deploy on device via QR code.][QR code]
 * [Deploy via cable connection.][USB deploy]
 
@@ -105,7 +103,6 @@ A new app is added in your {{site.tp}} account and all files are checked into th
 
 With the AppBuilder Windows client, you can quickly test your apps on device, in the simulator or in the native emulators.
 
-* [Run in the companion app.][companion]
 * [Run in the native emulators.][emulators]
 * [Deploy on device via QR code.][QR code]
 * [Deploy via cable connection.][USB deploy]
@@ -130,7 +127,6 @@ The extension for Visual Studio copies the sample files locally. The extension c
 
 With the AppBuilder extension for Visual Studio, you can quickly test your apps on device, in the simulator or in the native emulators.
 
-* [Run in the companion app.][companion]
 * [Run in the native emulators.][emulators]
 * [Deploy on device via QR code.][QR code]
 * [Deploy via cable connection.][USB deploy]
@@ -152,7 +148,6 @@ The AppBuilder command-line interface shows the following message: `Successfully
 
 With the AppBuilder command-line interface, you can quickly test your apps on device, in the simulator or in the native emulators.
 
-* [Run in the companion app.][companion]
 * [Run in the native emulators.][emulators]
 * [Deploy on device via QR code.][QR code]
 * [Deploy via cable connection.][USB deploy]
@@ -161,9 +156,9 @@ With the AppBuilder command-line interface, you can quickly test your apps on de
 
 # Limitations
 
-You cannot run this sample in the device simulator.
+* You cannot run this sample in the device simulator.
+* You cannot run this sample in the companion app.
 
-[companion]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/run-companion/using-appbuilder-companion-app
 [QR code]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/deploy-remote
 [USB deploy]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-on-devices/running-on-connected-devices/deploy-connected
 [emulators]: http://docs.telerik.com/platform/appbuilder/testing-your-app/running-in-emulators/native-emulators
